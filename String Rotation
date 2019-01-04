@@ -1,3 +1,6 @@
+'''
+Write a function to check if s1 is a rotation of s2.
+'''
 s1 = "waterbottle"
 s2 = 'bottlewater'
 
